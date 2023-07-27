@@ -301,7 +301,6 @@ https://docs.google.com/document/d/1C3h0agp3E6Z4a9z-YxnMTgP3Fd9y8n2C/edit?rtpof=
 https://drive.google.com/file/d/1tI4J95-7HDGES8e6oHR-wu0cXD8wHPUc/view?usp=sharing
 https://joongang.site/doc
 https://drive.google.com/file/d/1e41uC2ZTYvTc3CvS6wIKox22AGdP4nFB/view?usp=sharing
-https://www.microsoft.com/en-us/
 https://github.com/ChriSanders22/CVE-2023-20871-poc/
 https://github.com/ChriSanders22/CVE-2023-35829-poc/
 https://github.com/apkc/CVE-2023-35829-poc
