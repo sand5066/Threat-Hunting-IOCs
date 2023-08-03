@@ -1,0 +1,54 @@
+let IPBlock = externaldata(IP: string,values:dynamic) [@"https://raw.githubusercontent.com/sand5066/Threat-Hunting-IOCs/main/TorNodesExit.txt"]
+with (format="txt")
+| where IP !startswith "#"
+| project IP;
+IPBlock
+| join (DeviceNetworkEvents
+| where ActionType =="ConnectionSuccess"
+) 
+on $left.IP == $right.RemoteIP
+//| summarize  count() by InitiatingProcessFileName
+//| where  InitiatingProcessFileName has ""
+//| where DeviceName contains ""
+//| project IP, RemoteIP, DeviceName, RemoteUrl, InitiatingProcessFileName
+//| summarize  count() by RemoteIP
+
+
+let URLBlock = externaldata(URL: string,values:dynamic) [@"https://raw.githubusercontent.com/sand5066/Threat-Hunting-IOCs/main/RFIOC's26/RFIOCs22-06.txt"]
+with (format="txt")
+| where URL !startswith "#"
+| project URL;
+URLBlock
+| join (DeviceNetworkEvents
+| where ActionType =="ConnectionSuccess"
+) 
+on $left.URL == $right.RemoteUrl
+| project URL, RemoteUrl, DeviceName, RemoteIP, InitiatingProcessFileName
+
+
+let Hashlist = externaldata(hash: string,values:dynamic) [@"https://raw.githubusercontent.com/sand5066/Threat-Hunting-IOCs/main/RFIOC's26/RFIOCs26-7.txt"]
+with (format="txt")
+| where hash !startswith "#"
+| project hash;
+Hashlist
+| join (DeviceFileEvents) 
+on $left.hash == $right.MD5
+| project DeviceName, FileName, MD5
+
+
+DeviceTvmSoftwareInventory 
+| where SoftwareName contains ""
+| project DeviceName, SoftwareName, SoftwareVendor, SoftwareVersion
+
+
+DeviceNetworkEvents
+| where RemoteUrl contains ""
+//| summarize count() by DeviceName
+
+
+DeviceNetworkEvents
+| where RemoteUrl contains ""
+//|project DeviceName, RemoteUrl, RemoteIP, InitiatingProcessCommandLine
+
+DeviceNetworkEvents
+| where RemoteIP contains ""
