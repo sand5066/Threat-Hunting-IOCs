@@ -41,6 +41,15 @@ DeviceTvmSoftwareInventory
 | project DeviceName, SoftwareName, SoftwareVendor, SoftwareVersion
 
 
+## 21H2 build KQL
+DeviceInfo
+//| where DeviceName contains ""
+| summarize arg_max(Timestamp, *) by DeviceId
+|summarize count() by DeviceName, OSBuild, OSVersion
+| where OSVersion startswith "11"
+| where OSBuild between ( 22000 .. 23000)
+
+
 DeviceNetworkEvents
 | where RemoteUrl contains ""
 //| summarize count() by DeviceName
