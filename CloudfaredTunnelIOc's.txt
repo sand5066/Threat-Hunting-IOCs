@@ -1,3 +1,4 @@
+//To detect unauthorized use of Cloudflare Tunnels, GuidePoint recommends that organizations monitor for specific DNS queries (shared in the report) and use non-standard ports like 7844.
 cb87cc31f22e1c468314e979b1a801d1788955527dba4e97faf4951fb1b87bc1
 263b75376d52a752eb4947bca89ac46c3476e4920ce91ff273076bccd6c5129d
 fe94999ed937db27003d6d700b9e3ff32a1157bc67ec025086e939bed48f3957
