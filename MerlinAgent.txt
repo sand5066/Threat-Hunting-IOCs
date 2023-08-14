@@ -30,10 +30,10 @@ ublkdc.bin
 ctlhost.exe
 45.153.215.48
 cert-ua@ukr.net
-hXXps://files.catbox.moe/g1h7zr.bin
-hXXps://files.catbox.moe/ublkdc.bin
-hXXps://listen.servemp3.com:443
-hXXps://shorturl.at/iopr9
+https://files.catbox.moe/g1h7zr.bin
+https://files.catbox.moe/ublkdc.bin
+https://listen.servemp3.com:443
+https://shorturl.at/iopr9
 listen.servemp3.com
 %LOCALAPPDATA%\SysctlHost\ctlhost.exe
 %LOCALAPPDATA%\SysctlHost\ctlhost.exe.tmp
