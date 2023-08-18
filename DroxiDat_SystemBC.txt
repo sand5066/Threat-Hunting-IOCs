@@ -1,0 +1,20 @@
+93.115.25.41
+powersupportplan[.]com, 179.60.146.6
+epowersoftware[.]com, 194.165.16.63
+8d582a14279920af10d37eae3ff2b705
+f98b32755cbfa063a868c64bd761486f7d5240cc
+a00ca18431363b32ca20bf2da33a2e2704ca40b0c56064656432afd18a62824e
+19567b140ae6f266bac6d1ba70459fbd
+fd9016c64aea037465ce045d998c1eead3971d35
+a002668f47ff6eb7dd1b327a23bafc3a04bf5208f71610960366dfc28e280fe4
+C:\perflogs\syscheck.exe
+C:\perflogs\a.dll
+C:\perflogs\hos.exe
+C:\perflogs\host.exe
+C:\perflogs\hostt.exe
+C:\perflogs\svch.dll
+C:\perflogs\svchoct.dll
+C:\perflogs\admin\svcpost.dll
+C:\perflogs\admin\syscheck.exe
+C:\perflogs\sk64.dll
+C:\perflogs\clinic.exe
