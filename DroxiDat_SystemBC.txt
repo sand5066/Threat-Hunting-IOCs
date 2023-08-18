@@ -1,6 +1,6 @@
 93.115.25.41
-powersupportplan[.]com, 179.60.146.6
-epowersoftware[.]com, 194.165.16.63
+powersupportplan.com, 179.60.146.6
+epowersoftware.com, 194.165.16.63
 8d582a14279920af10d37eae3ff2b705
 f98b32755cbfa063a868c64bd761486f7d5240cc
 a00ca18431363b32ca20bf2da33a2e2704ca40b0c56064656432afd18a62824e
