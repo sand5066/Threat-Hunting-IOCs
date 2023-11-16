@@ -1,10 +1,10 @@
 80.66.64.15
 IP 194.168.175.226
 IP 193.108.114.41
-www-docker.top
-www-discord.com
-www-citrix.top
-www-basecamp.top
+www.docker.top
+www.discord.com
+www.citrix.top
+www.basecamp.top
 sntech2ch.top
 snatchteam.top
 sn76930193ch.top
@@ -16,8 +16,8 @@ dwhyj2.top
 ccleaner-cdn.top
 adobeusa.top
 pittsburghcitygirls.com
-www-microsofteams.top
-www-fortinet.top
+www.microsofteams.top
+www.fortinet.top
 56074a1d055957fe372a60582fa9603b4d683a029c0abbc490dcb5c44bc56885
 0965cb8ee38adedd9ba06bdad9220a35890c2df0e4c78d0559cd6da653bf740f
 1fbdb97893d09d59575c3ef95df3c929fe6b6ddf1b273283e4efadf94cdc802d
