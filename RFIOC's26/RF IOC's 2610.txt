@@ -14,7 +14,6 @@ ceeb012723d6e9f53757c6a1692fa3ffec93fe688c50e619242b55fa9825f691
 https://discord.com/api/webhooks/1106570095184052315/l2atfwud-yuvbgrl7z5ohrklk7lvffccddg3fu1k6ny5vf7ttgckvqhxtputi9edj9b5
 dobroua.one
 dobro.ua
-https://raw.githubusercontent.com
 5f619927b586a6f776eb582f661ed55c
 fd7de2b8572f35f0f6f58bba6ff2360e
 a88f606a45cea11909fcedadc8945ba7
