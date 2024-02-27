@@ -1,0 +1,40 @@
+C:\Windows\Tasks\EventViewerRCE.ps1
+C:\Windows\Tasks\p4yl0ad
+C:\Users\Public\1.txt
+C:\Users\Public\1.log
+C:\Users\Public\Sysmon.log
+HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths\[a-zA-Z]{1}
+"powershell -c foreach" AND "Add-MpPreference -ExclusionPath"
+certutil -decode .\1.txt 1.log
+rundll32.exe .\1.log,eglBindTexImage
+SetupWizard.aspx
+EventViewerRCE.ps1 
+1.txt
+1.log
+Sysmon.log
+fmorganjr
+p4yl0ad
+155.133.5.15
+155.133.5.14
+118.69.65.60
+d3ec1718cfc318c2b5e3f71ddc11a8e9
+45.77.72.150
+dns.artstrailreviews.com
+94f52a9b54b6f3bea8fdcb36d4505f67
+bbc4d830715e61d2ac49b8a91391992425491568
+f666322c0e4b4e7d6cd5da5f5fe3111ea116e95711b4ca7336f78837ddd24b45
+33c52fee174795e51246fd0af68c00ae
+8fe95841a2d4dc6916588c0c10ff1b5f2210ca78
+6a94df7fd140fd327979210adc45bf014e7056fd68174ab47e8219cc1d244440
+920eb5c749798c6b00d89b2af0373656 
+1ea24b798bf1fab58ba469237c703bb804628636
+1945e5f56df4b39fc5c252b719695be18344c5ae55dbbfc49556c96916a5ed1c
+b9bf8efb56cb3398e5fa149863cbb749
+9459f3499b90f90b17911cc1047b3fa625ad83b5
+cc13b5721f2ee6081c1244dd367a9de958353c29e32ea8b66e3b20b293fabc55
+51bc779f7a3bf781216d86d83cf3f217
+30dced0c9e10c68d91fdb3d7ab4e80b5f8fb7c63
+e34bd035546c926f4d155454e276f01036830c732764afb48c52906af950c0e3
+51.210.138.91
+http://51.210.138.91:805/download/Sysmon.log
+4.235.112.171
