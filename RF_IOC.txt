@@ -6,8 +6,6 @@ arielcorp.com
 arkypc.com
 aurekh.com
 azurenetfiles.net
-banco.bradesco
-bb.com.br
 bitlrewards-app.com
 bomgar.wgbh.org
 buisness-centeral-transportation.azurewebsites.net
@@ -95,7 +93,6 @@ sorentransportllc.com
 sostener2025.duckdns.org
 spicynagets.shop
 stone.com.br
-t.me
 tjdft.jus.br
 trabajo-03.duckdns.org
 uk-tax-refund.com
