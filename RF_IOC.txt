@@ -14,11 +14,9 @@ buisness-centeral.azurewebsites.net
 business-startup.azurewebsites.net
 business-startup.org
 businessstartup.azurewebsites.net
-caixa.gov.br
 calcul.lmd.polytechnique.fr
 cdscorp.com
 city-forum.com
-codeberg.org
 com-loads.com
 comdata.com
 conto.notificaintesasanpaoloit.avivos.s.p.a.t.mydomain.zone
@@ -54,8 +52,6 @@ gumi-cryptos.us05web-zoom.cloud
 hallonews.servemp3.com
 hkicl.com.hk
 hmrc-winter-fund.com
-intermedium.com.br
-itau.com.br
 juneuk25.cfd
 lakhov.com
 licencemanagers.azurewebsites.net
@@ -83,8 +79,6 @@ raintechinc.com
 ramiltons-finance.azurewebsites.net
 ramiltonsfinance.azurewebsites.net
 ramiltonsfinance.com
-remoteutilities.com
-santander.com.br
 screenly.cam
 secure.fultoncountyny.gov
 service-page-18968-2419-outlook.s3.us-west-2.amazonaws.com
@@ -92,8 +86,6 @@ service-page-25144-30466-outlook.s3.us-west-2.amazonaws.com
 sorentransportllc.com
 sostener2025.duckdns.org
 spicynagets.shop
-stone.com.br
-tjdft.jus.br
 trabajo-03.duckdns.org
 uk-tax-refund.com
 user.mxyew.com
